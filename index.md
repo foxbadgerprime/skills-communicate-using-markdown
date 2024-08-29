@@ -1,2 +1,3 @@
 # Communicating Using Markdown
-This time using the index.md file instead of the steps file.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
